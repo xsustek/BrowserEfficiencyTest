@@ -83,6 +83,7 @@
     <Compile Include="Scenarios\InstagramNYPL.cs" />
     <Compile Include="Scenarios\IxlEighthGradeScience.cs" />
     <Compile Include="Scenarios\LinkedInSatya.cs" />
+    <Compile Include="Scenarios\Muni.cs" />
     <Compile Include="Scenarios\NewselaChineseNewYear.cs" />
     <Compile Include="Scenarios\OfficeLauncher.cs" />
     <Compile Include="Scenarios\OfficePowerpoint.cs" />
